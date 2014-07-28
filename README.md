@@ -1,1 +1,1 @@
-# implement a tailf progrom, monitoring a file and send the new line to a scribe server, finally, using a merge server, merge the amount by a merge container interval time
+# implement a tailf progrom in golang language, monitoring the file and send the new line to a scribe server or the server implements the scribe thrift protocal, finally, using a merge server, merge the amount by a merge container interval time
